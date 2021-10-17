@@ -1,2 +1,2 @@
-# SergeyPunyakov.github.io
+# Сергей Пуняков
 Мой первый сайт
