@@ -12,7 +12,7 @@ nav{
 	background: #344051;
  }
 
- .logo{
+.logo{
 	color: #fff;
  	font-size: 28px;
  	line-height: 60px;
@@ -20,11 +20,10 @@ nav{
  	float: left;
  }
 
- .menu{
+.menu{
 	float: left;
 	padding-left: 12%;
  }
-
 .menu li{
 	float: left;
 	line-height: 60px;
@@ -37,7 +36,7 @@ nav{
 .main {
 	width: 100%;
 	height: calc(100% - 60px);
-	background: url(img/fon.png) center/cover no-repeat;
+	background: url(rcs/img/fon.png) center/cover no-repeat;
 }
 
 .title_container{
@@ -46,18 +45,15 @@ nav{
     color: #2c384a;
     text-align: center;   
 }
-
 .title_container h1{ 
     font-size: 60px;
     font-weight: bold;  
 }
-
 .title_container h4{  
     margin-top: 40px;
     font-size: 23px;
     color: #79818d;  
 }
-
 .title_container input{
     
     height: 40px;
@@ -89,7 +85,6 @@ nav{
     color: #2c384a;
     text-align: center;    
 }
-
 .title_container1 h3 {
     margin-top: 100px;
     font-size: 34px;
@@ -98,7 +93,7 @@ nav{
 }
 
 .image {
-    background-image: url(img/devil.png);
+    background-image: url(rcs/img/devil.png);
     background-repeat: no-repeat;
     background-size: 74px 5px;
     content: '';
@@ -109,7 +104,7 @@ nav{
 }
 
 .image1 {
-    background-image: url(img/foto3.png);
+    background-image: url(rcs/img/foto3.png);
     background-repeat: no-repeat;
     background-size: 200px 200px;
     content: '';
@@ -130,12 +125,11 @@ nav{
     word-wrap: break-word;
     position: center; 
 }
-
  .title_container1 input{  
     height: 40px;
     text-align: center;
     border: 2px solid #6d7682;
-    background: url(img/download.png) left/cover no-repeat;
+    background: url(rcs/img/download.png) left/cover no-repeat;
     background-size: 20px 20px;
     border-radius: 6px;
     color: #6d7682;
@@ -150,10 +144,10 @@ nav{
 
 .main2 {
     
-    margin-top: 145px;
+    margin: 100px 0px 0px 0px;
     width: 100%;
-    height: calc(100% - 100px);
-	background: url(img/main2.png) center/cover no-repeat;
+    height: 523px;
+	background: url(rcs/img/main2.png) center/cover no-repeat;
     text-align: center;
 }
 
@@ -161,18 +155,19 @@ nav{
     float: left;
     width: 100%;
     color: #2c384a;
-    text-align: center;    
+    text-align: center;
+    margin: auto;
+    
 }
-
 .title_container2 h3 {
-    margin-top: 100px;
+    margin: 70px 0px 0px 0px;
     font-size: 34px;
 	color: #263243;
     text-align: center;
 }
 
 .image2 {
-    background-image: url(img/devil.png);
+    background-image: url(rcs/img/devil.png);
     background-repeat: no-repeat;
     background-size: 74px 5px;
     content: '';
@@ -183,7 +178,37 @@ nav{
 }
 
 .image2_1{
-    background-image: url(img/pc.png);
+    background-image: url(rcs/img/pc.png);
+    background-repeat: no-repeat;
+    background-size: 50px 50px;
+    content: '';
+    display: block;
+    margin: 32px auto 40px auto;
+    height: 50px;
+    width: 50px; 
+}
+.image2_2{
+    background-image: url(rcs/img/development.png);
+    background-repeat: no-repeat;
+    background-size: 50px 50px;
+    content: '';
+    display: block;
+    margin: 32px auto 40px auto;
+    height: 50px;
+    width: 50px; 
+}
+.image2_3{
+    background-image: url(rcs/img/rocket.png);
+    background-repeat: no-repeat;
+    background-size: 50px 50px;
+    content: '';
+    display: block;
+    margin: 32px auto 40px auto;
+    height: 50px;
+    width: 50px; 
+}
+.image2_4{
+    background-image: url(rcs/img/shout.png);
     background-repeat: no-repeat;
     background-size: 50px 50px;
     content: '';
@@ -198,16 +223,14 @@ nav{
     font-size: 19px;
 	color: #CF7500;
     text-align: center;
-    margin-left: 25%;
+    margin-left: 19%;
 }
-
 .title_container2_1 h4{
     font-size: 19px;
 	color: #CF7500;
     text-align: center;
     margin: 0px auto 20px auto;
 }
-
 .title_container2_1 p{
     font-size: 14px;
 	color: #2c384a;
@@ -216,3 +239,70 @@ nav{
     word-wrap: break-word;
     width: 200px;
 }
+
+.title_container2_2{
+    float: left;
+    font-size: 19px;
+	color: #CF7500;
+    text-align: center;
+    margin-left: 74px;
+}
+.title_container2_2 h4{
+    font-size: 19px;
+	color: #CF7500;
+    text-align: center;
+    margin: 0px auto 20px auto;
+}
+.title_container2_2 p{
+    font-size: 14px;
+	color: #2c384a;
+    text-align: center;
+    margin: 0px auto 20px auto;
+    word-wrap: break-word;
+    width: 200px;
+}
+
+.title_container2_3{
+    float: left;
+    font-size: 19px;
+	color: #CF7500;
+    text-align: center;
+    margin-left: 74px;
+}
+.title_container2_3 h4{
+    font-size: 19px;
+	color: #CF7500;
+    text-align: center;
+    margin: 0px auto 20px auto;
+}
+.title_container2_3 p{
+    font-size: 14px;
+	color: #2c384a;
+    text-align: center;
+    margin: 0px auto 20px auto;
+    word-wrap: break-word;
+    width: 200px;
+}
+
+.title_container2_4{
+    float: left;
+    font-size: 19px;
+	color: #CF7500;
+    text-align: center;
+    margin-left: 74px;
+}
+.title_container2_4 h4{
+    font-size: 19px;
+	color: #CF7500;
+    text-align: center;
+    margin: 0px auto 20px auto;
+}
+.title_container2_4 p{
+    font-size: 14px;
+	color: #2c384a;
+    text-align: center;
+    margin: 0px 0px 20px 0px;
+    word-wrap: break-word;
+    width: 200px;
+}
+
