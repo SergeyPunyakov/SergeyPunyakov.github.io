@@ -37,7 +37,7 @@ nav{
 .main {
 	width: 100%;
 	height: calc(100% - 60px);
-	background: url(../rcs/img/fon.png) center/cover no-repeat;
+	background: url(img/fon.png) center/cover no-repeat;
 }
 
 .title_container{
@@ -98,7 +98,7 @@ nav{
 }
 
 .image {
-    background-image: url(../rcs/img/devil.png);
+    background-image: url(img/devil.png);
     background-repeat: no-repeat;
     background-size: 74px 5px;
     content: '';
@@ -109,7 +109,7 @@ nav{
 }
 
 .image1 {
-    background-image: url(../rcs/rcs/img/foto3.png);
+    background-image: url(img/foto3.png);
     background-repeat: no-repeat;
     background-size: 200px 200px;
     content: '';
@@ -135,7 +135,7 @@ nav{
     height: 40px;
     text-align: center;
     border: 2px solid #6d7682;
-    background: url(../rcs/img/download.png) left/cover no-repeat;
+    background: url(img/download.png) left/cover no-repeat;
     background-size: 20px 20px;
     border-radius: 6px;
     color: #6d7682;
@@ -153,7 +153,7 @@ nav{
     margin-top: 145px;
     width: 100%;
     height: calc(100% - 100px);
-	background: url(../rcs/img/main2.png) center/cover no-repeat;
+	background: url(img/main2.png) center/cover no-repeat;
     text-align: center;
 }
 
@@ -172,7 +172,7 @@ nav{
 }
 
 .image2 {
-    background-image: url(../rcs/img/devil.png);
+    background-image: url(img/devil.png);
     background-repeat: no-repeat;
     background-size: 74px 5px;
     content: '';
@@ -183,7 +183,7 @@ nav{
 }
 
 .image2_1{
-    background-image: url(../rcs/img/pc.png);
+    background-image: url(img/pc.png);
     background-repeat: no-repeat;
     background-size: 50px 50px;
     content: '';
