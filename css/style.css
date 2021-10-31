@@ -34,7 +34,7 @@ nav {
 .main {
 	width: 100%;
 	height: calc(100% - 60px);
-	background: url(/img/fon.png) center/cover no-repeat;
+	background: url(img/fon.png) center/cover no-repeat;
 }
 .title_container {
     float: left;
@@ -85,7 +85,7 @@ nav {
     text-align: center;
 }
 .image {
-    background-image: url(/img/devil.png);
+    background-image: url(img/devil.png);
     background-repeat: no-repeat;
     background-size: 74px 5px;
     content: '';
@@ -95,7 +95,7 @@ nav {
     width: 74px; 
 }
 .image1 {
-    background-image: url(/img/foto3.png);
+    background-image: url(img/foto3.png);
     background-repeat: no-repeat;
     background-size: 200px 200px;
     content: '';
