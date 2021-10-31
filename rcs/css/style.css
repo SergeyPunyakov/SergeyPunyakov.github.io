@@ -34,7 +34,7 @@ nav {
 .main {
 	width: 100%;
 	height: calc(100% - 60px);
-	background: url(///Users/punyakov.s/Desktop/Test/rcs/img/fon.png) center/cover no-repeat;
+	background: url(.../img/fon.png) center/cover no-repeat;
 }
 .title_container {
     float: left;
@@ -85,7 +85,7 @@ nav {
     text-align: center;
 }
 .image {
-    background-image: url(///Users/punyakov.s/Desktop/Test/rcs/img/devil.png);
+    background-image: url(.../img/devil.png);
     background-repeat: no-repeat;
     background-size: 74px 5px;
     content: '';
@@ -95,7 +95,7 @@ nav {
     width: 74px; 
 }
 .image1 {
-    background-image: url(///Users/punyakov.s/Desktop/Test/rcs/img/foto3.png);
+    background-image: url(.../img/foto3.png);
     background-repeat: no-repeat;
     background-size: 200px 200px;
     content: '';
@@ -119,7 +119,7 @@ nav {
     height: 40px;
     text-align: center;
     border: 2px solid #6d7682;
-    background: url(///Users/punyakov.s/Desktop/Test/rcs/img/download.png) left/cover no-repeat;
+    background: url(.../img/download.png) left/cover no-repeat;
     background-size: 20px 20px;
     border-radius: 6px;
     color: #6d7682;
@@ -134,7 +134,7 @@ nav {
     margin: 100px 0px 0px 0px;
     width: 100%;
     height: 523px;
-	background: url(///Users/punyakov.s/Desktop/Test/rcs/img/main2.png) center/cover no-repeat;
+	background: url(.../img/main2.png) center/cover no-repeat;
     text-align: center;
 }
 .title_container2 {
@@ -157,7 +157,7 @@ height: 100%;
 margin-left: 19%;
 }
 .image2 {
-    background-image: url(///Users/punyakov.s/Desktop/Test/rcs/img/devil.png);
+    background-image: url(.../img/devil.png);
     background-repeat: no-repeat;
     background-size: 74px 5px;
     content: '';
@@ -167,7 +167,7 @@ margin-left: 19%;
     width: 74px; 
 }
 .image2_1{
-    background-image: url(///Users/punyakov.s/Desktop/Test/rcs/img/pc.png);
+    background-image: url(.../img/pc.png);
     background-repeat: no-repeat;
     background-size: 50px 50px;
     content: '';
@@ -177,7 +177,7 @@ margin-left: 19%;
     width: 50px; 
 }
 .image2_2 {
-    background-image: url(///Users/punyakov.s/Desktop/Test/rcs/img/development.png);
+    background-image: url(.../img/development.png);
     background-repeat: no-repeat;
     background-size: 50px 50px;
     content: '';
@@ -187,7 +187,7 @@ margin-left: 19%;
     width: 50px; 
 }
 .image2_3 {
-    background-image: url(///Users/punyakov.s/Desktop/Test/rcs/img/rocket.png);
+    background-image: url(.../img/rocket.png);
     background-repeat: no-repeat;
     background-size: 50px 50px;
     content: '';
@@ -197,7 +197,7 @@ margin-left: 19%;
     width: 50px; 
 }
 .image2_4 {
-    background-image: url(///Users/punyakov.s/Desktop/Test/rcs/img/shout.png);
+    background-image: url(.../img/shout.png);
     background-repeat: no-repeat;
     background-size: 50px 50px;
     content: '';
@@ -301,7 +301,7 @@ margin-left: 19%;
     text-align: center;
 }
 .image6 {
-    background-image: url(///Users/punyakov.s/Desktop/Test/rcs/img/fotka@3x.png);
+    background-image: url(.../img/fotka@3x.png);
     background-repeat: no-repeat;
     background-size: 900px 500px;
     content: '';
@@ -409,7 +409,7 @@ margin-left: 19%;
     padding-left: 30%;
 }
 .image4 {
-    background-image: url(///Users/punyakov.s/Desktop/Test/rcs/img/line.png);
+    background-image: url(.../img/line.png);
     background-repeat: no-repeat;
     background-size: 750px 3px;
     content: '';
@@ -448,7 +448,7 @@ margin-left: 19%;
     margin: 0px 100px 0px 0px;
     width: 100%;
     height: 523px;
-	background: url(///Users/punyakov.s/Desktop/Test/rcs/img/main2.png) center/cover no-repeat;
+	background: url(.../img/main2.png) center/cover no-repeat;
     text-align: center;
     float: left;
 }
@@ -459,7 +459,7 @@ margin-left: 19%;
     text-align: center;
 }
 .image5_1{
-    background-image: url(///Users/punyakov.s/Desktop/Test/rcs/img/smile.png);
+    background-image: url(.../img/smile.png);
     background-repeat: no-repeat;
     background-size: 50px 50px;
     content: '';
@@ -469,7 +469,7 @@ margin-left: 19%;
     width: 50px; 
 }
 .image5_2 {
-    background-image: url(///Users/punyakov.s/Desktop/Test/rcs/img/code.png);
+    background-image: url(.../img/code.png);
     background-repeat: no-repeat;
     background-size: 50px 50px;
     content: '';
@@ -479,7 +479,7 @@ margin-left: 19%;
     width: 50px; 
 }
 .image5_3 {
-    background-image: url(///Users/punyakov.s/Desktop/Test/rcs/img/yes.png);
+    background-image: url(.../img/yes.png);
     background-repeat: no-repeat;
     background-size: 50px 50px;
     content: '';
@@ -489,7 +489,7 @@ margin-left: 19%;
     width: 50px; 
 }
 .image5_4 {
-    background-image: url(///Users/punyakov.s/Desktop/Test/rcs/img/trof.png);
+    background-image: url(.../img/trof.png);
     background-repeat: no-repeat;
     background-size: 50px 50px;
     content: '';
@@ -604,7 +604,7 @@ margin-left: 19%;
     text-align: center;
 }
 .image3 {
-    background-image: url(///Users/punyakov.s/Desktop/Test/rcs/img/foto_o.png);
+    background-image: url(.../img/foto_o.png);
     background-repeat: no-repeat;
     background-size: 200px 200px;
     content: '';
@@ -631,7 +631,7 @@ margin-left: 19%;
     margin: 0px 100px 0px 0px;
     width: 100%;
     height: 880px;
-	background: url(///Users/punyakov.s/Desktop/Test/rcs/img/fon7.png);
+	background: url(.../img/fon7.png);
     text-align: center;
     float: left;
 }
@@ -642,7 +642,7 @@ margin-left: 19%;
     text-align: center;
 }
 .image7_1{
-    background-image: url(///Users/punyakov.s/Desktop/Test/rcs/img/gps.png);
+    background-image: url(.../img/gps.png);
     background-repeat: no-repeat;
     background-size: 50px 50px;
     content: '';
@@ -652,7 +652,7 @@ margin-left: 19%;
     width: 50px; 
 }
 .image7_2 {
-    background-image: url(///Users/punyakov.s/Desktop/Test/rcs/img/mail.png);
+    background-image: url(.../img/mail.png);
     background-repeat: no-repeat;
     background-size: 50px 50px;
     content: '';
@@ -662,7 +662,7 @@ margin-left: 19%;
     width: 50px; 
 }
 .image7_3 {
-    background-image: url(///Users/punyakov.s/Desktop/Test/rcs/img/phone.png);
+    background-image: url(.../img/phone.png);
     background-repeat: no-repeat;
     background-size: 50px 50px;
     content: '';
