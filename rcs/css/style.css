@@ -85,7 +85,7 @@ nav {
     text-align: center;
 }
 .image {
-    background-image: url (.../img/devil.png);
+    background-image: url(https://sergeypunyakov.github.io/rcs/img/devil.png);
     background-repeat: no-repeat;
     background-size: 74px 5px;
     content: '';
@@ -95,7 +95,7 @@ nav {
     width: 74px; 
 }
 .image1 {
-    background-image: url (.../img/foto3.png);
+    background-image: url(https://sergeypunyakov.github.io/rcs/img/foto3.png);
     background-repeat: no-repeat;
     background-size: 200px 200px;
     content: '';
@@ -119,7 +119,7 @@ nav {
     height: 40px;
     text-align: center;
     border: 2px solid #6d7682;
-    background: url(.../img/download.png) left/cover no-repeat;
+    background: url(https://sergeypunyakov.github.io/rcs/img/download.png) left/cover no-repeat;
     background-size: 20px 20px;
     border-radius: 6px;
     color: #6d7682;
@@ -134,7 +134,7 @@ nav {
     margin: 100px 0px 0px 0px;
     width: 100%;
     height: 523px;
-	background: url(.../img/main2.png) center/cover no-repeat;
+	background: url(https://sergeypunyakov.github.io/rcs/img/main2.png) center/cover no-repeat;
     text-align: center;
 }
 .title_container2 {
@@ -157,7 +157,7 @@ height: 100%;
 margin-left: 19%;
 }
 .image2 {
-    background-image: url(.../img/devil.png);
+    background-image: url(https://sergeypunyakov.github.io/rcs/img/devil.png);
     background-repeat: no-repeat;
     background-size: 74px 5px;
     content: '';
